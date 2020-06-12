@@ -1,0 +1,36 @@
+{
+  "name": "liuzi-gulp",
+  "version": "0.1.0",
+  "description": "Awesome node module",
+  "keywords": [
+    "liuzi-gulp",
+    "zce"
+  ],
+  "homepage": "https://github.com/zce/liuzi-gulp#readme",
+  "bugs": {
+    "url": "https://github.com/zce/liuzi-gulp/issues"
+  },
+  "license": "MIT",
+  "author": "734692305 <liuhuijun_web@sina.com>",
+  "files": [
+    "lib"
+  ],
+  "main": "lib/index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zce/liuzi-gulp.git"
+  },
+  "scripts": {
+    "lint": "standard --fix"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "standard": "^13.1.0"
+  },
+  "engines": {
+    "node": ">=6"
+  }
+}
